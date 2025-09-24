@@ -1,0 +1,352 @@
+[
+  {
+    "id_a": 11030,
+    "id_b": 4817,
+    "date": "2025-03-08",
+    "value": 9,
+    "color": "RED"
+  },
+  {
+    "id_a": 1139,
+    "id_b": 13850,
+    "date": "2025-01-21",
+    "value": 10,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 1840,
+    "id_b": 14678,
+    "date": "2024-06-30",
+    "value": 32,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 19015,
+    "id_b": 1073,
+    "date": "2025-03-26",
+    "value": 49,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 4416,
+    "id_b": 14685,
+    "date": "2025-03-17",
+    "value": 24,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 9725,
+    "id_b": 1053,
+    "date": "2025-03-22",
+    "value": 46,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 2970,
+    "id_b": 15609,
+    "date": "2025-03-05",
+    "value": 1,
+    "color": "RED"
+  },
+  {
+    "id_a": 16324,
+    "id_b": 17510,
+    "date": "2024-06-25",
+    "value": 10,
+    "color": "RED"
+  },
+  {
+    "id_a": 9434,
+    "id_b": 15448,
+    "date": "2025-04-14",
+    "value": 35,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 18203,
+    "id_b": 6450,
+    "date": "2024-06-04",
+    "value": 32,
+    "color": "RED"
+  },
+  {
+    "id_a": 14415,
+    "id_b": 15808,
+    "date": "2025-03-02",
+    "value": 41,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 14335,
+    "id_b": 9012,
+    "date": "2025-03-18",
+    "value": 8,
+    "color": "RED"
+  },
+  {
+    "id_a": 13559,
+    "id_b": 12501,
+    "date": "2025-07-15",
+    "value": 5,
+    "color": "RED"
+  },
+  {
+    "id_a": 19536,
+    "id_b": 10973,
+    "date": "2025-03-29",
+    "value": 47,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 3493,
+    "id_b": 6583,
+    "date": "2025-03-05",
+    "value": 25,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 2570,
+    "id_b": 8990,
+    "date": "2025-03-28",
+    "value": 14,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 445,
+    "id_b": 3903,
+    "date": "2025-01-02",
+    "value": 2,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 2590,
+    "id_b": 10472,
+    "date": "2024-06-01",
+    "value": 44,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 4092,
+    "id_b": 3789,
+    "date": "2025-03-28",
+    "value": 23,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 7096,
+    "id_b": 3609,
+    "date": "2025-03-23",
+    "value": 19,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 12415,
+    "id_b": 19901,
+    "date": "2025-03-21",
+    "value": 6,
+    "color": "RED"
+  },
+  {
+    "id_a": 14360,
+    "id_b": 17986,
+    "date": "2024-07-07",
+    "value": 26,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 13616,
+    "id_b": 6548,
+    "date": "2024-07-28",
+    "value": 12,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 3301,
+    "id_b": 5924,
+    "date": "2024-06-28",
+    "value": 27,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 17786,
+    "id_b": 1810,
+    "date": "2024-06-02",
+    "value": 44,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 12884,
+    "id_b": 17101,
+    "date": "2024-02-19",
+    "value": 18,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 8480,
+    "id_b": 13252,
+    "date": "2024-06-28",
+    "value": 15,
+    "color": "RED"
+  },
+  {
+    "id_a": 455,
+    "id_b": 18885,
+    "date": "2024-06-30",
+    "value": 17,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 938,
+    "id_b": 14185,
+    "date": "2024-06-04",
+    "value": 3,
+    "color": "RED"
+  },
+  {
+    "id_a": 10770,
+    "id_b": 17740,
+    "date": "2024-06-05",
+    "value": 32,
+    "color": "RED"
+  },
+  {
+    "id_a": 1230,
+    "id_b": 7595,
+    "date": "2025-03-20",
+    "value": 20,
+    "color": "RED"
+  },
+  {
+    "id_a": 5015,
+    "id_b": 12359,
+    "date": "2025-03-03",
+    "value": 1,
+    "color": "RED"
+  },
+  {
+    "id_a": 1065,
+    "id_b": 11315,
+    "date": "2025-03-16",
+    "value": 29,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 17614,
+    "id_b": 14254,
+    "date": "2024-06-11",
+    "value": 32,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 17906,
+    "id_b": 15618,
+    "date": "2025-12-21",
+    "value": 44,
+    "color": "RED"
+  },
+  {
+    "id_a": 10213,
+    "id_b": 14937,
+    "date": "2024-06-17",
+    "value": 25,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 1060,
+    "id_b": 9537,
+    "date": "2024-06-29",
+    "value": 38,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 11045,
+    "id_b": 492,
+    "date": "2024-01-01",
+    "value": 25,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 8743,
+    "id_b": 17016,
+    "date": "2025-03-02",
+    "value": 21,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 1685,
+    "id_b": 2717,
+    "date": "2025-03-13",
+    "value": 45,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 8006,
+    "id_b": 8417,
+    "date": "2024-06-03",
+    "value": 32,
+    "color": "RED"
+  },
+  {
+    "id_a": 5359,
+    "id_b": 8556,
+    "date": "2025-08-25",
+    "value": 18,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 13258,
+    "id_b": 12579,
+    "date": "2025-11-04",
+    "value": 39,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 4522,
+    "id_b": 8251,
+    "date": "2025-03-25",
+    "value": 17,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 10360,
+    "id_b": 4663,
+    "date": "2025-04-05",
+    "value": 27,
+    "color": "BLUE"
+  },
+  {
+    "id_a": 88,
+    "id_b": 6944,
+    "date": "2024-10-27",
+    "value": 42,
+    "color": "RED"
+  },
+  {
+    "id_a": 7677,
+    "id_b": 10786,
+    "date": "2025-05-10",
+    "value": 4,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 12312,
+    "id_b": 6719,
+    "date": "2024-06-22",
+    "value": 14,
+    "color": "GREEN"
+  },
+  {
+    "id_a": 4593,
+    "id_b": 19405,
+    "date": "2025-04-06",
+    "value": 46,
+    "color": "RED"
+  },
+  {
+    "id_a": 12084,
+    "id_b": 10657,
+    "date": "2025-10-08",
+    "value": 47,
+    "color": "BLUE"
+  }
+]
