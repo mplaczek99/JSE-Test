@@ -25,6 +25,7 @@ Includes clear design documentation, reproducible execution steps, and attention
 ```bash
 git clone https://github.com/mplaczek99/JSE-Test.git
 cd JSE-Test
+```
 
 Run
 # JSE-Test
