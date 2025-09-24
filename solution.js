@@ -3,7 +3,6 @@
 const fs = require("fs");
 
 // Task 1 Helpers
-
 // Strictly parse YYYY-MM-DD
 function parseDateStrict(yyyy_mm_dd) {
   const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(yyyy_mm_dd || "");
@@ -98,6 +97,7 @@ try {
 
   // Task 1
   const task1 = {
+    // Dates are in numbers...
     color_freq_2024_06: countForMonth(events, 2024, 6),
     color_freq_2025_03: countForMonth(events, 2025, 3),
   };
