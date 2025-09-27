@@ -10,13 +10,3 @@ Prompts I asked:
 5) In MarkDown, generate a minimal README and a brief design note
 6) Show a strict YYYY-MM-DD parsing example that rejects invalid dates
 7) Give an example of building fast lookups from IDs to items
-8) Provide a tiny example of joining items to names via a reference list
-9) Show how to break ties alphabetically for deterministic results
-10) Give an example that ensures zero defaults for missing categories
-11) Show an example that guarantees exactly one JSON object is printed with no extra logs
-12) Provide an example that sorts labels alphabetically
-13) Show a pattern for separating data loading from pure computation functions
-14) Share a tiny example of ignoring unknown categories while keeping required keys
-15) Give an example that chooses the earliest valid date while skipping malformed ones
-16) Show a short snippet that deduplicates items referenced multiple ways
-17) Provide a tiny example for stable output ordering of object keys
